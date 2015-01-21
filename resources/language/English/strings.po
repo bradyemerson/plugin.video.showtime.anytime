@@ -1,0 +1,203 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2013-08-03 23:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Library"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Enable Export to Library"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Folder Location"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Built-in Folder"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Custom Folder"
+msgstr ""
+
+
+msgctxt "#30015"
+msgid "Views"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Poster Wrap"
+msgstr ""
+
+msgctxt "#30025"
+msgid "List"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Media Info 2"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Media Info"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Fanart"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Big List"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Movie View"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Show View"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Season View"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Episode View"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Enable Views"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Custom Folder"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Library Folder stored in addon settings"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Update Library after Exporting"
+msgstr ""
+
+msgctxt "#32000"
+msgid "Views"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Enable Views"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Poster Wrap"
+msgstr ""
+
+msgctxt "#32004"
+msgid "List"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Media Info 2"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Media Info"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Fanart"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Big List"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Root View"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Show View"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Category View"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Episode View"
+msgstr ""
+
+msgctxt "#33000"
+msgid "Stations"
+msgstr ""
+
+msgctxt "#39000"
+msgid "Favorite Shows"
+msgstr ""
+
+msgctxt "#39001"
+msgid "Your Favorite Shows On:"
+msgstr ""
+
+msgctxt "#39002"
+msgid "All Shows"
+msgstr ""
+
+msgctxt "#39003"
+msgid "All Shows Available On:"
+msgstr ""
+
+msgctxt "#39004"
+msgid "Manual Search"
+msgstr ""
+
+msgctxt "#39005"
+msgid "Looking up "
+msgstr ""
+
+msgctxt "#39006"
+msgid "Remove from {0} Favorites"
+msgstr ""
+
+msgctxt "#39007"
+msgid "Add to {0} Favorites"
+msgstr ""
+
+msgctxt "#39024"
+msgid "Exception"
+msgstr ""
+
+msgctxt "#39025"
+msgid "Add Episode Identifier"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Launch Chrome in Kiosk Mode?"
+msgstr ""

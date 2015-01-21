@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.showtime.anytime" name="Showtime Anytime" version="0.0.1" provider-name="bemerson">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="plugin.program.chrome.launcher"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Showtime Anytime Browsing and Playing</summary>
+    <description lang="en">Movies and Television Shows for Showtime Subscribers. This plugin allows you to browse and export to local library the movies and original series available on Showtime Anytime. Viewing is done through the browser via Chrome Launcher plugin.</description>
+    <disclaimer>A Showtime subscription is required.</disclaimer>
+  </extension>
+</addon>
